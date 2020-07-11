@@ -37,5 +37,5 @@ That is the client React Application to start :
 
 This repo contains my solution, using `localStorage` to keep the "re-play" data. Also using the `useState` and `useEffect` the new "react stantard".
 
-**To check the history, first yoy need to wait for some API data. Every `ws` request is stored into `localStorage` until 100 items.**
+**To check the history, first you need to wait for some API data. Every `ws` request is stored into `localStorage` up to 100 items.**
 
